@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spider Task 1</string>
+    <string name="add_new_item">Add New Item</string>
+    <string name="remove">Remove</string>
+</resources>
